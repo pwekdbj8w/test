@@ -13,7 +13,8 @@
 
 ## 硬體需求
 
-| 項目 | 說明 |
+| 項目 | 說明 |[stm32g474_stock_sim_presentation.pdf](https://github.com/user-attachments/files/34308428/stm32g474_stock_sim_presentation.pdf)
+
 | --- | --- |
 | 開發板 | NUCLEO-G474RE |
 | 按鈕 | 6 顆（PB0 ~ PB5），一端接 GPIO、另一端接 GND |
