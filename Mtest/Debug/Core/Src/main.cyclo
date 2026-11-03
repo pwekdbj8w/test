@@ -1,0 +1,8 @@
+../Core/Src/main.c:74:6:UART_SendLog	1
+../Core/Src/main.c:86:5:main	13
+../Core/Src/main.c:246:6:SystemClock_Config	3
+../Core/Src/main.c:293:13:MX_LPUART1_UART_Init	5
+../Core/Src/main.c:340:13:MX_TIM1_Init	5
+../Core/Src/main.c:412:13:MX_GPIO_Init	1
+../Core/Src/main.c:466:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:487:6:Error_Handler	1
